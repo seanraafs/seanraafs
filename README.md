@@ -40,3 +40,4 @@ helps users to easily and quickly find water pump repair services.
 
 ### [Simple Parallax Website](https://seanraafs.github.io/Parallax/)
 Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation
+using desktop for better perfomance

@@ -39,5 +39,4 @@ My first project, this is a web application for water pump service created using
 helps users to easily and quickly find water pump repair services.
 
 ### [Simple Parallax Website](https://seanraafs.github.io/Parallax/)
-Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation,
-This project aims to showcase my skills in building interactive and web sites responsive By using HTML for basic structure, CSS for design and layout, and JavaScript for provides dynamic functionality
+Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation

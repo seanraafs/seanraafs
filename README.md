@@ -37,3 +37,7 @@ HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
 ### [Water Pump Service](https://seanraafs.github.io/servicepompaair/)
 My first project, this is a web application for water pump service created using HTML, CSS, and JavaScript. This project
 helps users to easily and quickly find water pump repair services.
+
+### [Simple Parallax Website](https://seanraafs.github.io/Parallax/)
+Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation,
+This project aims to showcase my skills in building interactive and web sites responsive By using HTML for basic structure, CSS for design and layout, and JavaScript for provides dynamic functionality

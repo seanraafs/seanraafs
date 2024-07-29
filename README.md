@@ -38,6 +38,6 @@ HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
 My first project, this is a web application for water pump service created using HTML, CSS, and JavaScript. This project
 helps users to easily and quickly find water pump repair services.
 
-### [Simple Parallax Website](https://seanraafs.github.io/Parallax/)
+### [Simple Parallax Website](https://parallax-mu-gules.vercel.app/)
 Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation
 using desktop for better perfomance

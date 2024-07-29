@@ -41,3 +41,7 @@ helps users to easily and quickly find water pump repair services.
 ### [Simple Parallax Website](https://parallax-mu-gules.vercel.app/)
 Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation
 using desktop for better perfomance
+
+### [Webiste Bot Discord Joiner/Spammer](https://web-joiner-demo.vercel.app/)
+This repository hosts the demo website for fXs-Bot, showcasing our advanced Discord spamming and joiner services. Explore how our tools can help you boost engagement, activity, and growth for your Discord server.
+

@@ -45,3 +45,14 @@ using desktop for better perfomance
 ### [Webiste Bot Discord Joiner/Spammer](https://web-joiner-demo.vercel.app/)
 This repository hosts the demo website for fXs-Bot, showcasing our advanced Discord spamming and joiner services. Explore how our tools can help you boost engagement, activity, and growth for your Discord server.
 
+
+<div align="center">
+  
+### Watch Snake Eating My Github Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seanraafs/seanraafs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seanraafs/seanraafs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seanraafs/seanraafs/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+

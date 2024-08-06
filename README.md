@@ -1,17 +1,16 @@
 # Hi there 👋, I'm Sean Raaf Ramadhan!
 
-Welcome to my GitHub profile! I'm a web developer passionate about creating beautiful and functional websites using
-HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
+Welcome to my GitHub profile! I'm a web developer passionate about creating beautiful and functional websites.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seanraafs.seanraafs)
 
 ## About Me
 
-- 🌍 I'm based in Indonesia
-- 🌐 I love building websites with HTML, CSS, and JavaScript
+- 🌍 I'm based in Indonesia 🇮🇩.
+- 🌐 I love building websites
 - 💬 Ask me about web development
 - 📫 How to reach me: seanraafs@gmail.com
-- ⚡ Fun fact: I love learning new web technologies and exploring the vibrant tech community in Indonesia.
+- ⚡ Fun fact: I love learning new web technologies
 
 ## Skills
 
@@ -22,6 +21,8 @@ HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanraafs&show_icons=true&locale=en&layout=compact" alt="seanraafs" /></p>

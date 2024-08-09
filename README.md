@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 
 ## Projects
 
-### [Water Pump Service](https://seanraafs.github.io/servicepompaair/)
-My first project, this is a web application for water pump service created using HTML, CSS, and JavaScript. This project
-helps users to easily and quickly find water pump repair services.
-
 ### [Simple Parallax Website](https://parallax-mu-gules.vercel.app/)
 Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation
 using desktop for better perfomance

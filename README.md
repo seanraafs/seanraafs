@@ -32,17 +32,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-raaf-ramadhan-a48029306/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seanraafs)
 
-
-## Projects
-
-### [Simple Parallax Website](https://parallax-mu-gules.vercel.app/)
-Simple Parallax Website Using HTML,CSS,JAVASCRIPT with animation
-using desktop for better perfomance
-
-### [Webiste Bot Discord Joiner/Spammer](https://web-joiner-demo.vercel.app/)
-This repository hosts the demo website for fXs-Bot, showcasing our advanced Discord spamming and joiner services. Explore how our tools can help you boost engagement, activity, and growth for your Discord server.
-
-
 <div align="center">
   
 ### Watch Snake Eating My Github Contributions

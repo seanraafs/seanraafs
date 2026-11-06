@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sean Raaf Ramadhan!
+# Hi there 👋, I'm Sean Raaf!
 
 Welcome to my GitHub profile! I'm a web developer passionate about creating beautiful and functional websites.
 

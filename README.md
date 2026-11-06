@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanraafs&show_icons=true&locale=en&layout=compact" alt="seanraafs" /></p>
-
 <div align="center">
   
 ### Watch Snake Eating My Github Contributions

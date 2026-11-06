@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanraafs&show_icons=true&locale=en&layout=compact" alt="seanraafs" /></p>
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-raaf-ramadhan-a48029306/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seanraafs)
-
 <div align="center">
   
 ### Watch Snake Eating My Github Contributions
